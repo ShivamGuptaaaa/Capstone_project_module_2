@@ -1,1 +1,1 @@
-Hotel-Booking-Analysis
+EDA_capstone_project
